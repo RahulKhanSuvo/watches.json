@@ -1,0 +1,53 @@
+ [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "Apple Watch Series 7",
+      "display": "OLED Retina display",
+      "battery_life": "Up to 18 hours",
+      "sensors": ["Heart rate sensor", "GPS", "Accelerometer"],
+      "water_resistance": "50 meters",
+      "price": "$399"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy Watch 4",
+      "display": "Super AMOLED display",
+      "battery_life": "Up to 2 days",
+      "sensors": ["Heart rate sensor", "SpO2 sensor", "ECG sensor"],
+      "water_resistance": "50 meters",
+      "price": "$249"
+    },
+    {
+      "id": 3,
+      "brand": "Fitbit",
+      "model": "Fitbit Versa 3",
+      "display": "AMOLED display",
+      "battery_life": "Up to 6 days",
+      "sensors": ["Heart rate sensor", "SpO2 sensor", "Built-in GPS"],
+      "water_resistance": "50 meters",
+      "price": "$229"
+    },
+    {
+      "id": 4,
+      "brand": "Garmin",
+      "model": "Garmin Fenix 6",
+      "display": "Transflective display",
+      "battery_life": "Up to 14 days",
+      "sensors": ["Heart rate sensor", "GPS", "Barometric altimeter"],
+      "water_resistance": "100 meters",
+      "price": "$599"
+    },
+    {
+      "id": 5,
+      "brand": "Huawei",
+      "model": "Huawei Watch GT 3",
+      "display": "AMOLED display",
+      "battery_life": "Up to 14 days",
+      "sensors": ["Heart rate sensor", "SpO2 sensor", "Built-in GPS"],
+      "water_resistance": "50 meters",
+      "price": "$299"
+    }
+  ]
+
